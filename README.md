@@ -35,5 +35,7 @@ etc...
 ## 📘 O que eu aprendi
 
 -Entrada e saída de dados com scanf e printf
+
 -Estrutura de repetição com for
+
 -Organização básica de um programa em C
