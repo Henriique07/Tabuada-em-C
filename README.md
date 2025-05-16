@@ -25,7 +25,7 @@ Numero: 5
 
 5 x 5 = 25
 
-etc..
+etc...
 
 ## 🛠️ Tecnologias utilizadas
 
